@@ -1,1 +1,2 @@
-# Milestone4--Editable-Resume-builder
+# Milestone4--Editable-Resume
+Milestone4 Editable Resume
